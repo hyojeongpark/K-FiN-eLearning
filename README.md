@@ -1,5 +1,7 @@
 # K-FiN-eLearning
 ### K-FiN-eLearning provides E-learning(LMS) for students who are in need of portfolio and job finding.
+
+![Main page](https://user-images.githubusercontent.com/73567162/135219890-ea1fd4e4-19f2-4e8d-b255-39a3d167d0d2.png)
 ### Students can
 #### 1. Take a course
 #### 2. Ask questions
